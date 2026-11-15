@@ -1,0 +1,30 @@
+﻿table,colonne,type,description,origine
+dim_match,cle_match,Entier,Clé de substitution (0 = inconnu),Générée par l'ETL
+dim_match,id_match,Entier,Identifiant du match chez StatsBomb (clé naturelle),matches.json
+dim_match,date / annee,Date / texte,"Date du match, année",matches.json
+dim_match,competition,Texte,Coupe du monde 2022 ou CAN 2023,Dossier source
+dim_match,phase / ordre_phase,Texte / entier,Phase en français et son ordre de tri,"matches.json, traduit"
+dim_match,stade / ville / pays,Texte,Lieu du match (pour la carte),matches.json + table STADES
+dim_match,libelle_match,Texte,Ex. : Maroc 1-0 Portugal,Calculé
+dim_equipe,cle_equipe,Entier,Clé de substitution,Générée par l'ETL
+dim_equipe,nom_equipe / nom_fr,Texte,Nom anglais (source) et français,matches.json + table EQUIPES
+dim_equipe,confederation,Texte,"CAF, UEFA, CONCACAF",Table EQUIPES
+dim_joueur,cle_joueur / id_joueur / nom_joueur,Entier / entier / texte,"Clé, identifiant StatsBomb, nom",events
+dim_poste,cle_poste / poste / poste_fr / ligne,Entier / texte,Poste occupé lors de l'action et sa ligne,events + table POSTES
+dim_temps_jeu,cle_temps,Entier,"Clé : une ligne par (période, minute), générée complète",Générée par l'ETL
+dim_temps_jeu,periode / libelle_periode / minute,Entier / texte / entier,"1-2 temps réglementaire, 3-4 prolongations",Générée
+dim_temps_jeu,tranche_15 / ordre_tranche,Texte / entier,"Tranche de 15 min, arrêts de jeu isolés",Générée
+dim_zone,cle_zone / zone / tiers / couloir,Entier / texte,Terrain découpé en 3 tiers x 3 couloirs,Générée
+dim_type_action,cle_type / type_action / libelle_fr / famille,Entier / texte,Type d'action et sa famille,events + table TYPES
+fait_evenement,id_evenement,Texte,Identifiant de l'action (dimension dégénérée),events
+fait_evenement,cle_match … cle_type,Entier,Clés étrangères vers les 7 dimensions (cle_adversaire -> dim_equipe),ETL
+fait_evenement,num_possession,Entier,Numéro de la séquence de jeu dans le match (dimension dégénérée),events
+fait_evenement,x / y,Décimal (point),Position sur le terrain 120 x 80 (vide si inconnue),events
+fait_evenement,nb_actions,Entier,Toujours 1 : sert à compter,Calculé
+fait_evenement,xg,Décimal (point),Probabilité de but du tir ; 0 pour les autres actions,events (statsbomb_xg)
+fait_evenement,but,Entier 0/1,1 si tir marqué ou but contre son camp crédité,Calculé (règles 1 et 2)
+fait_evenement,action_reussie,Entier 0/1,1 si passe ou dribble réussi,Calculé
+fait_match_equipe,cle_match / cle_equipe / cle_adversaire,Entier,Une ligne par équipe et par match,ETL
+fait_match_equipe,domicile,Entier 0/1,1 si équipe « à domicile » sur la feuille de match,matches.json
+fait_match_equipe,buts_marques / buts_encaisses,Entier,Score officiel,matches.json
+fait_match_equipe,victoire / nul / defaite,Entier 0/1,Issue ; un 0-0 gagné aux tirs au but compte comme nul,Calculé

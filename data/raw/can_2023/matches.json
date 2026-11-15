@@ -1,0 +1,362 @@
+[
+ {
+  "match_id": 3920394,
+  "match_date": "2024-01-17",
+  "kick_off": "17:00:00.000",
+  "competition": {
+   "competition_id": 1267,
+   "country_name": "Africa",
+   "competition_name": "African Cup of Nations"
+  },
+  "season": {
+   "season_id": 107,
+   "season_name": "2023"
+  },
+  "home_team": {
+   "home_team_id": 788,
+   "home_team_name": "Morocco",
+   "home_team_gender": "male",
+   "home_team_group": null,
+   "country": {
+    "id": 154,
+    "name": "Morocco"
+   },
+   "managers": [
+    {
+     "id": 1000518,
+     "name": "Walid Regragui",
+     "nickname": null,
+     "dob": "1975-09-23",
+     "country": {
+      "id": 154,
+      "name": "Morocco"
+     }
+    }
+   ]
+  },
+  "away_team": {
+   "away_team_id": 4953,
+   "away_team_name": "Tanzania",
+   "away_team_gender": "male",
+   "away_team_group": null,
+   "country": {
+    "id": 225,
+    "name": "Tanzania, United Republic of"
+   },
+   "managers": [
+    {
+     "id": 1001640,
+     "name": "Adel Amrouche",
+     "nickname": null,
+     "dob": "1968-03-07",
+     "country": {
+      "id": 22,
+      "name": "Belgium"
+     }
+    }
+   ]
+  },
+  "home_score": 3,
+  "away_score": 0,
+  "match_status": "available",
+  "match_status_360": "unscheduled",
+  "last_updated": "2026-05-02T05:54:46.548766",
+  "last_updated_360": null,
+  "metadata": {
+   "data_version": "1.1.0",
+   "shot_fidelity_version": "2",
+   "xy_fidelity_version": "2"
+  },
+  "match_week": 1,
+  "competition_stage": {
+   "id": 10,
+   "name": "Group Stage"
+  },
+  "stadium": {
+   "id": 1001497,
+   "name": "Stade Laurent Pokou",
+   "country": {
+    "id": 55,
+    "name": "Côte d'Ivoire"
+   }
+  },
+  "referee": {
+   "id": 1008353,
+   "name": "Alhadi Allaou Mahamat",
+   "country": {
+    "id": 44,
+    "name": "Chad"
+   }
+  }
+ },
+ {
+  "match_id": 3920405,
+  "match_date": "2024-01-21",
+  "kick_off": "14:00:00.000",
+  "competition": {
+   "competition_id": 1267,
+   "country_name": "Africa",
+   "competition_name": "African Cup of Nations"
+  },
+  "season": {
+   "season_id": 107,
+   "season_name": "2023"
+  },
+  "home_team": {
+   "home_team_id": 788,
+   "home_team_name": "Morocco",
+   "home_team_gender": "male",
+   "home_team_group": null,
+   "country": {
+    "id": 154,
+    "name": "Morocco"
+   },
+   "managers": [
+    {
+     "id": 1000518,
+     "name": "Walid Regragui",
+     "nickname": null,
+     "dob": "1975-09-23",
+     "country": {
+      "id": 154,
+      "name": "Morocco"
+     }
+    }
+   ]
+  },
+  "away_team": {
+   "away_team_id": 4881,
+   "away_team_name": "Congo DR",
+   "away_team_gender": "male",
+   "away_team_group": null,
+   "country": {
+    "id": 52,
+    "name": "Congo, (Kinshasa)"
+   },
+   "managers": [
+    {
+     "id": 5011,
+     "name": "Sébastien Desabre",
+     "nickname": null,
+     "dob": "1976-08-02",
+     "country": {
+      "id": 78,
+      "name": "France"
+     }
+    }
+   ]
+  },
+  "home_score": 1,
+  "away_score": 1,
+  "match_status": "available",
+  "match_status_360": "unscheduled",
+  "last_updated": "2026-05-02T05:55:21.424403",
+  "last_updated_360": null,
+  "metadata": {
+   "data_version": "1.1.0",
+   "shot_fidelity_version": "2",
+   "xy_fidelity_version": "2"
+  },
+  "match_week": 2,
+  "competition_stage": {
+   "id": 10,
+   "name": "Group Stage"
+  },
+  "stadium": {
+   "id": 1001497,
+   "name": "Stade Laurent Pokou",
+   "country": {
+    "id": 55,
+    "name": "Côte d'Ivoire"
+   }
+  },
+  "referee": {
+   "id": 1003468,
+   "name": "Peter Waweru Kamaku",
+   "country": {
+    "id": 118,
+    "name": "Kenya"
+   }
+  }
+ },
+ {
+  "match_id": 3922243,
+  "match_date": "2024-01-30",
+  "kick_off": "20:00:00.000",
+  "competition": {
+   "competition_id": 1267,
+   "country_name": "Africa",
+   "competition_name": "African Cup of Nations"
+  },
+  "season": {
+   "season_id": 107,
+   "season_name": "2023"
+  },
+  "home_team": {
+   "home_team_id": 788,
+   "home_team_name": "Morocco",
+   "home_team_gender": "male",
+   "home_team_group": null,
+   "country": {
+    "id": 154,
+    "name": "Morocco"
+   },
+   "managers": [
+    {
+     "id": 1000518,
+     "name": "Walid Regragui",
+     "nickname": null,
+     "dob": "1975-09-23",
+     "country": {
+      "id": 154,
+      "name": "Morocco"
+     }
+    }
+   ]
+  },
+  "away_team": {
+   "away_team_id": 4976,
+   "away_team_name": "South Africa",
+   "away_team_gender": "male",
+   "away_team_group": null,
+   "country": {
+    "id": 211,
+    "name": "South Africa"
+   },
+   "managers": [
+    {
+     "id": 1801,
+     "name": "Hugo Henri Broos",
+     "nickname": null,
+     "dob": "1952-04-10",
+     "country": {
+      "id": 22,
+      "name": "Belgium"
+     }
+    }
+   ]
+  },
+  "home_score": 0,
+  "away_score": 2,
+  "match_status": "available",
+  "match_status_360": "unscheduled",
+  "last_updated": "2026-05-02T01:59:57.635438",
+  "last_updated_360": null,
+  "metadata": {
+   "data_version": "1.1.0",
+   "shot_fidelity_version": "2",
+   "xy_fidelity_version": "2"
+  },
+  "match_week": 4,
+  "competition_stage": {
+   "id": 33,
+   "name": "Round of 16"
+  },
+  "stadium": {
+   "id": 1001497,
+   "name": "Stade Laurent Pokou",
+   "country": {
+    "id": 55,
+    "name": "Côte d'Ivoire"
+   }
+  },
+  "referee": {
+   "id": 1003531,
+   "name": "Mahmood Ali Mahmood Ismail",
+   "country": {
+    "id": 216,
+    "name": "Sudan"
+   }
+  }
+ },
+ {
+  "match_id": 3920419,
+  "match_date": "2024-01-24",
+  "kick_off": "20:00:00.000",
+  "competition": {
+   "competition_id": 1267,
+   "country_name": "Africa",
+   "competition_name": "African Cup of Nations"
+  },
+  "season": {
+   "season_id": 107,
+   "season_name": "2023"
+  },
+  "home_team": {
+   "home_team_id": 4963,
+   "home_team_name": "Zambia",
+   "home_team_gender": "male",
+   "home_team_group": null,
+   "country": {
+    "id": 253,
+    "name": "Zambia"
+   },
+   "managers": [
+    {
+     "id": 4969,
+     "name": "Avraham Grant",
+     "nickname": null,
+     "dob": "1955-02-06",
+     "country": {
+      "id": 111,
+      "name": "Israel"
+     }
+    }
+   ]
+  },
+  "away_team": {
+   "away_team_id": 788,
+   "away_team_name": "Morocco",
+   "away_team_gender": "male",
+   "away_team_group": null,
+   "country": {
+    "id": 154,
+    "name": "Morocco"
+   },
+   "managers": [
+    {
+     "id": 1000518,
+     "name": "Walid Regragui",
+     "nickname": null,
+     "dob": "1975-09-23",
+     "country": {
+      "id": 154,
+      "name": "Morocco"
+     }
+    }
+   ]
+  },
+  "home_score": 0,
+  "away_score": 1,
+  "match_status": "available",
+  "match_status_360": "unscheduled",
+  "last_updated": "2026-05-02T14:01:26.644144",
+  "last_updated_360": null,
+  "metadata": {
+   "data_version": "1.1.0",
+   "shot_fidelity_version": "2",
+   "xy_fidelity_version": "2"
+  },
+  "match_week": 3,
+  "competition_stage": {
+   "id": 10,
+   "name": "Group Stage"
+  },
+  "stadium": {
+   "id": 1001497,
+   "name": "Stade Laurent Pokou",
+   "country": {
+    "id": 55,
+    "name": "Côte d'Ivoire"
+   }
+  },
+  "referee": {
+   "id": 1006318,
+   "name": "Patrice Tanguy Mebiame",
+   "country": {
+    "id": 82,
+    "name": "Gabon"
+   }
+  }
+ }
+]

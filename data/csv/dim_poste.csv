@@ -1,0 +1,23 @@
+﻿cle_poste,poste,poste_fr,ligne
+0,Inconnu,Inconnu,Inconnu
+1,Center Attacking Midfield,Milieu offensif,Milieu
+2,Center Back,Défenseur central,Défense
+3,Center Defensive Midfield,Milieu défensif,Milieu
+4,Center Forward,Avant-centre,Attaque
+5,Goalkeeper,Gardien,Gardien
+6,Left Back,Arrière gauche,Défense
+7,Left Center Back,Défenseur central gauche,Défense
+8,Left Center Forward,Attaquant gauche,Attaque
+9,Left Center Midfield,Milieu central gauche,Milieu
+10,Left Defensive Midfield,Milieu défensif gauche,Milieu
+11,Left Midfield,Milieu gauche,Milieu
+12,Left Wing,Ailier gauche,Attaque
+13,Left Wing Back,Piston gauche,Défense
+14,Right Back,Arrière droit,Défense
+15,Right Center Back,Défenseur central droit,Défense
+16,Right Center Forward,Attaquant droit,Attaque
+17,Right Center Midfield,Milieu central droit,Milieu
+18,Right Defensive Midfield,Milieu défensif droit,Milieu
+19,Right Midfield,Milieu droit,Milieu
+20,Right Wing,Ailier droit,Attaque
+21,Right Wing Back,Piston droit,Défense

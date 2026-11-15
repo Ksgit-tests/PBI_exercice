@@ -1,0 +1,59 @@
+=== EXPLORATION DES DONNÉES — 11 matchs du Maroc ===
+
+--- mondial_2022 (7 matchs) ---
+2022-11-23  Group Stage      Morocco 0-0 Croatia
+   3719 événements | périodes [1, 2] | sans position : 31 | tirs au but (période 5) : 0 | buts contre son camp : 0
+   xG : Morocco 0.36 - 0.85 Croatia | buts recalculés : 0-0 -> OK
+2022-11-27  Group Stage      Belgium 0-2 Morocco
+   3620 événements | périodes [1, 2] | sans position : 28 | tirs au but (période 5) : 0 | buts contre son camp : 0
+   xG : Belgium 0.64 - 0.99 Morocco | buts recalculés : 0-2 -> OK
+2022-12-01  Group Stage      Canada 1-2 Morocco
+   3388 événements | périodes [1, 2] | sans position : 29 | tirs au but (période 5) : 0 | buts contre son camp : 1
+   xG : Canada 1.10 - 0.43 Morocco | buts recalculés : 1-2 -> OK
+2022-12-06  Round of 16      Morocco 0-0 Spain
+   4750 événements | périodes [1, 2, 3, 4, 5] | sans position : 49 | tirs au but (période 5) : 18 | buts contre son camp : 0
+   xG : Morocco 0.57 - 0.49 Spain | buts recalculés : 0-0 -> OK
+2022-12-10  Quarter-finals   Morocco 1-0 Portugal
+   3381 événements | périodes [1, 2] | sans position : 35 | tirs au but (période 5) : 0 | buts contre son camp : 0
+   xG : Morocco 0.97 - 0.74 Portugal | buts recalculés : 1-0 -> OK
+2022-12-14  Semi-finals      France 2-0 Morocco
+   3551 événements | périodes [1, 2] | sans position : 25 | tirs au but (période 5) : 0 | buts contre son camp : 0
+   xG : France 2.00 - 1.23 Morocco | buts recalculés : 2-0 -> OK
+2022-12-17  3rd Place Final  Croatia 2-1 Morocco
+   3560 événements | périodes [1, 2] | sans position : 33 | tirs au but (période 5) : 0 | buts contre son camp : 0
+   xG : Croatia 0.85 - 0.99 Morocco | buts recalculés : 2-1 -> OK
+
+--- can_2023 (4 matchs) ---
+2024-01-17  Group Stage      Morocco 3-0 Tanzania
+   3424 événements | périodes [1, 2] | sans position : 37 | tirs au but (période 5) : 0 | buts contre son camp : 0
+   xG : Morocco 2.30 - 0.01 Tanzania | buts recalculés : 3-0 -> OK
+2024-01-21  Group Stage      Morocco 1-1 Congo DR
+   2793 événements | périodes [1, 2] | sans position : 40 | tirs au but (période 5) : 0 | buts contre son camp : 0
+   xG : Morocco 1.05 - 2.31 Congo DR | buts recalculés : 1-1 -> OK
+2024-01-24  Group Stage      Zambia 0-1 Morocco
+   3237 événements | périodes [1, 2] | sans position : 34 | tirs au but (période 5) : 0 | buts contre son camp : 0
+   xG : Zambia 0.44 - 2.42 Morocco | buts recalculés : 0-1 -> OK
+2024-01-30  Round of 16      Morocco 0-2 South Africa
+   3121 événements | périodes [1, 2] | sans position : 31 | tirs au but (période 5) : 0 | buts contre son camp : 0
+   xG : Morocco 2.09 - 0.24 South Africa | buts recalculés : 0-2 -> OK
+
+=== SYNTHÈSE ===
+Événements : 38544 | sans position : 372 (1.0 %)
+Événements de séances de tirs au but (période 5) : 18 -> à exclure des tirs
+Buts contre son camp : 1 -> codés 'Own Goal For', pas comme un tir
+Scores recalculés conformes : 11/11
+Joueurs aux noms accentués : 45 (ex. : Alejandro Balde Martínez, Andrej Kramarić, Aurélien Djani Tchouaméni, Bruno Petković)
+
+Types d'événements les plus fréquents :
+   Pass                 11076
+   Ball Receipt*        10402
+   Carry                8893
+   Pressure             2979
+   Ball Recovery        955
+   Duel                 656
+   Clearance            391
+   Block                352
+   Foul Committed       325
+   Foul Won             312
+   Dribble              307
+   Miscontrol           300

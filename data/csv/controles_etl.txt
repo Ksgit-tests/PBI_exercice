@@ -1,0 +1,9 @@
+
+=== CONTRÔLES ===
+Événements de séance de tirs au but exclus : 18
+Test 1 — buts recalculés = score officiel : 22/22 lignes équipe-match
+Test 2 — clés étrangères orphelines : 0
+         actions rattachées à cle_joueur = 0 (Inconnu) : 177
+         actions rattachées à cle_poste = 0 (Inconnu) : 177
+         actions rattachées à cle_temps = 0 (Inconnu) : 0
+         actions rattachées à cle_zone = 0 (Inconnu) : 368

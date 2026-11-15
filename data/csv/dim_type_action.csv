@@ -1,0 +1,35 @@
+﻿cle_type,type_action,libelle_fr,famille
+0,Inconnu,Inconnu,Inconnu
+1,50/50,Duel 50/50,Défensive
+2,Bad Behaviour,Comportement antisportif,Autre
+3,Ball Receipt*,Réception,Offensive
+4,Ball Recovery,Récupération,Défensive
+5,Block,Contre,Défensive
+6,Carry,Conduite de balle,Offensive
+7,Clearance,Dégagement,Défensive
+8,Dispossessed,Dépossédé,Perte de balle
+9,Dribble,Dribble,Offensive
+10,Dribbled Past,Dribblé,Défensive
+11,Duel,Duel,Défensive
+12,Error,Erreur,Perte de balle
+13,Foul Committed,Faute commise,Défensive
+14,Foul Won,Faute subie,Offensive
+15,Goal Keeper,Action du gardien,Défensive
+16,Half End,Fin de période,Autre
+17,Half Start,Début de période,Autre
+18,Injury Stoppage,Arrêt pour blessure,Autre
+19,Interception,Interception,Défensive
+20,Miscontrol,Mauvais contrôle,Perte de balle
+21,Offside,Hors-jeu,Offensive
+22,Own Goal Against,But contre son camp (concédé),Autre
+23,Own Goal For,But contre son camp (bénéficiaire),Autre
+24,Pass,Passe,Offensive
+25,Player Off,Sortie du terrain,Autre
+26,Player On,Entrée en jeu,Autre
+27,Pressure,Pressing,Défensive
+28,Referee Ball-Drop,Balle à terre,Autre
+29,Shield,Protection de balle,Offensive
+30,Shot,Tir,Offensive
+31,Starting XI,Composition de départ,Autre
+32,Substitution,Remplacement,Autre
+33,Tactical Shift,Changement tactique,Autre
